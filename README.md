@@ -4,6 +4,8 @@ This project is a simple Kafka-based microservices architecture built in Python.
 
 ## 🧱 Architecture
 
+<img alt="image" src="https://github.com/user-attachments/assets/e86646fc-d47c-4e69-9db6-b8b60f33d9db" width="500px"/>
+
 - **Order Service**: Produces random product orders.
 - **Inventory Service**: Consumes orders and simulates inventory adjustment.
 - **Notification Service**: Sends simulated notifications for each order.
